@@ -1,0 +1,186 @@
+.header {
+  display: flex;
+  margin-top: 5px;
+  margin-left: 50px;
+}
+.buttons {
+  position: absolute;
+  right: 0;
+  margin-right: 50px;
+}
+.title {
+  height: 400px;
+  margin-left: 50px;
+  margin-top: 60px;
+  width: 45%;
+}
+.images {
+  height: 400px;
+  width: 55%;
+  position: relative;
+  left: 0;
+  top: 0;
+  margin-top: 30px;
+}
+.p {
+  margin: 0;
+}
+.idea {
+  font-size: 30px;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+span {
+  margin: 0;
+  padding: 0;
+}
+.describe {
+  font-size: 15px;
+  color: grey;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.main {
+  display: flex;
+}
+.frontimg {
+  position: relative;
+  left: 0;
+  top: 0;
+  margin-top: 45px;
+}
+.backimg {
+  position: absolute;
+  right: 0;
+}
+.feature {
+  display: flex;
+}
+.description {
+  margin-left: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.homeimages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+}
+.hometri {
+  display: flex;
+  padding-bottom: 50px;
+}
+.tri {
+  position: absolute;
+  right: 0;
+  padding-top: 20px;
+}
+.image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  display: flex;
+  flex-direction: column;
+}
+.text {
+  color: grey;
+  font-size: 13px;
+}
+.loren {
+  color: grey;
+}
+.end1 {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  background-image: url("./images/back.png");
+}
+.headend1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.content1 {
+  margin-top: 30px;
+  display: flex;
+}
+.row1 {
+  display: flex;
+}
+.box1,
+.box2 {
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+}
+
+.box1,
+.box2,
+.box3,
+.box4,
+.box5,
+.box6 {
+  width: 300px;
+  padding-left: 20px;
+  padding-top: 40px;
+}
+.box2 {
+  background-color: lightskyblue;
+}
+.box3 {
+  border-bottom: 1px solid white;
+}
+.rightblue {
+  margin-top: 120px;
+  margin-left: 40px;
+}
+.box4,
+.box5 {
+  border-right: 1px solid white;
+}
+.box4,
+.box5,
+.box6 {
+  padding-bottom: 40px;
+}
+.row2 {
+  display: flex;
+  margin-left: 100px;
+}
+.leftpart3 {
+  width: 500px;
+  height: 400px;
+  background-image: url("./images/triangle1backleft.png");
+}
+.lastend {
+  color: white;
+  background-color: rgb(6, 3, 63);
+}
+.enduper {
+  display: flex;
+  padding-top: 40px;
+  padding-left: 80px;
+  padding-bottom: 40px;
+}
+.enddown {
+  display: flex;
+}
